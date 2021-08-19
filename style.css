@@ -1,0 +1,19 @@
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.para > a {
+    text-decoration: none;
+    color: black;
+}
+
+.para > a:hover{
+    color: blue;
+    /* font-size: larger; */
+    /* transition: cubic-bezier(0.95, 0.05, 0.795, 0.035); */
+}
+
+
+
